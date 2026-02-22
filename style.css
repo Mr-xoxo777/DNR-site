@@ -23,6 +23,7 @@ header{
   align-items: center;
   border-radius: 20px;
   border: blue 4px solid;
+  position: relative;
 }
 
 .bemvindo{
@@ -45,4 +46,6 @@ header{
 
 .acessorio{
   transform: rotate(30deg);
+  position: absolute;
+  left: 5%;
 }
