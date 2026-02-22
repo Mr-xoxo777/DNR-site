@@ -47,5 +47,5 @@ header{
 .acessorio{
   transform: rotate(30deg);
   position: absolute;
-  right: 5%;
+  right: -5%;
 }
