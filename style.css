@@ -3,3 +3,40 @@
   padding:0;
   box-sizing:border-box;
 }
+
+body{
+  background-image: url('star.jpg');
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+header{
+  margin-top: 6px;
+  background-image: url('beach.png');
+  width: 96%;
+  height: 100px;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  border-radius: 20px;
+  border: blue 7px solid;
+}
+
+header img{
+  animation: float 5s ease-in-out infinite;
+}
+
+@keyframes float{
+  0%{
+    transform: translatey(0);
+  }
+  
+  50%{
+    transform: translatey(-12px);
+  }
+  
+  100%{
+    transform: translatey(0);
+  }
+}
