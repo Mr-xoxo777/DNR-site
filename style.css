@@ -14,13 +14,14 @@ body{
 header{
   margin-top: 6px;
   background-image: url('beach.png');
+  background-size:300px;
   width: 96%;
   height: 100px;
   display: flex;
   justify-content: flex-start;
   align-items: center;
   border-radius: 20px;
-  border: blue 7px solid;
+  border: blue 4px solid;
 }
 
 header img{
