@@ -62,4 +62,10 @@ main{
   width: 100%;
   display: flex;
   justify-content: center;
+  column-gap: 5px;
+}
+
+.pixel1 img{
+  width: 20px;
+  height: 20px;
 }
