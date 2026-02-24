@@ -49,3 +49,17 @@ header{
   position: absolute;
   right: -5%;
 }
+
+main{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 12px;
+}
+
+.pixel1{
+  background: linear-gradient(90deg, transparent, blue, darkblue, blue, transparent);
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
