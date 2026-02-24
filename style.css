@@ -58,7 +58,7 @@ main{
 }
 
 .pixel1{
-  background: linear-gradient(90deg, transparent, blue, darkblue, blue, transparent);
+  background: linear-gradient(90deg, transparent, #7724d1, darkblue, #7724d1, transparent);
   width: 100%;
   display: flex;
   justify-content: center;
