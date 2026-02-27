@@ -75,7 +75,7 @@ main{
 .introducao{
   margin: 8px 0 8px 0;
   height: max-height;
-  width: max-height;
+  width: 98%;
   padding: 30px;
   border: white 3px solid;
   border-radius: 40px;
