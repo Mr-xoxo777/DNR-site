@@ -102,7 +102,21 @@ main{
 }
 
 .alerta_block{
-  display: flex;
-  flex-direction: column;
-  align-items: center;
+  text-align: center;
+  width: 96%;
+  height: max-height;
+  background-color: black;
+  padding: 30px;
+  border: white 3px solid;
+  border-radius: 40px;
+  font-family: "ubuntu", "sans-serif";
+  color: white;
+}
+
+.alerta_block .red{
+  color: red;
+}
+
+.alerta_block ul{
+  text-align: left;
 }
