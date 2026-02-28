@@ -77,11 +77,11 @@ main{
   height: max-height;
   width: 98%;
   padding: 30px;
-  border: white 3px solid;
+  border: #2418c7 3px solid;
   border-radius: 40px;
   font-family: "ubuntu", "sans-serif";
   color: white;
-  background: black;
+  background: #180147;
   text-align:center;
 }
 
