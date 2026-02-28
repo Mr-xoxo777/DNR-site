@@ -7,7 +7,7 @@
 }
 
 body{
-  background-image: url('star.jpg');
+  background-image: url('back.gif');
   display: flex;
   flex-direction: column;
   align-items: center;
