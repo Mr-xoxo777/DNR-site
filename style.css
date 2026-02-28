@@ -105,9 +105,9 @@ main{
   text-align: center;
   width: 96%;
   height: max-height;
-  background-color: black;
+  background-color: #180147;
   padding: 30px;
-  border: white 3px solid;
+  border: #2418c7 3px solid;
   border-radius: 40px;
   font-family: "ubuntu", "sans-serif";
   color: white;
